@@ -1,0 +1,252 @@
+Use the rest countries API ULR - https://restcountries.eu/rest/v2/all and display all the country flags in the console.
+
+Script.js:12 Name : Mauritania  Flags : https://flagcdn.com/w320/mr.png
+Script.js:12 Name : Aruba  Flags : https://flagcdn.com/w320/aw.png
+Script.js:12 Name : Argentina  Flags : https://flagcdn.com/w320/ar.png
+Script.js:12 Name : Sweden  Flags : https://flagcdn.com/w320/se.png
+Script.js:12 Name : Maldives  Flags : https://flagcdn.com/w320/mv.png
+Script.js:12 Name : Mexico  Flags : https://flagcdn.com/w320/mx.png
+Script.js:12 Name : New Zealand  Flags : https://flagcdn.com/w320/nz.png
+Script.js:12 Name : Ecuador  Flags : https://flagcdn.com/w320/ec.png
+Script.js:12 Name : Wallis and Futuna  Flags : https://flagcdn.com/w320/wf.png
+Script.js:12 Name : Åland Islands  Flags : https://flagcdn.com/w320/ax.png
+Script.js:12 Name : Montenegro  Flags : https://flagcdn.com/w320/me.png
+Script.js:12 Name : Pakistan  Flags : https://flagcdn.com/w320/pk.png
+Script.js:12 Name : Pitcairn Islands  Flags : https://flagcdn.com/w320/pn.png
+Script.js:12 Name : Zambia  Flags : https://flagcdn.com/w320/zm.png
+Script.js:12 Name : Seychelles  Flags : https://flagcdn.com/w320/sc.png
+Script.js:12 Name : Malaysia  Flags : https://flagcdn.com/w320/my.png
+Script.js:12 Name : Norway  Flags : https://flagcdn.com/w320/no.png
+Script.js:12 Name : Uzbekistan  Flags : https://flagcdn.com/w320/uz.png
+Script.js:12 Name : Vanuatu  Flags : https://flagcdn.com/w320/vu.png
+Script.js:12 Name : French Southern and Antarctic Lands  Flags : https://flagcdn.com/w320/tf.png
+Script.js:12 Name : Christmas Island  Flags : https://flagcdn.com/w320/cx.png
+Script.js:12 Name : Singapore  Flags : https://flagcdn.com/w320/sg.png
+Script.js:12 Name : Suriname  Flags : https://flagcdn.com/w320/sr.png
+Script.js:12 Name : Western Sahara  Flags : https://flagcdn.com/w320/eh.png
+Script.js:12 Name : Saint Martin  Flags : https://flagcdn.com/w320/mf.png
+Script.js:12 Name : Costa Rica  Flags : https://flagcdn.com/w320/cr.png
+Script.js:12 Name : Heard Island and McDonald Islands  Flags : https://flagcdn.com/w320/hm.png
+Script.js:12 Name : Ireland  Flags : https://flagcdn.com/w320/ie.png
+Script.js:12 Name : Antarctica  Flags : https://flagcdn.com/w320/aq.png
+Script.js:12 Name : Australia  Flags : https://flagcdn.com/w320/au.png
+Script.js:12 Name : Libya  Flags : https://flagcdn.com/w320/ly.png
+Script.js:12 Name : Qatar  Flags : https://flagcdn.com/w320/qa.png
+Script.js:12 Name : Greenland  Flags : https://flagcdn.com/w320/gl.png
+Script.js:12 Name : Mauritius  Flags : https://flagcdn.com/w320/mu.png
+Script.js:12 Name : Kazakhstan  Flags : https://flagcdn.com/w320/kz.png
+Script.js:12 Name : British Indian Ocean Territory  Flags : https://flagcdn.com/w320/io.png
+Script.js:12 Name : Albania  Flags : https://flagcdn.com/w320/al.png
+Script.js:12 Name : Bahrain  Flags : https://flagcdn.com/w320/bh.png
+Script.js:12 Name : Papua New Guinea  Flags : https://flagcdn.com/w320/pg.png
+Script.js:12 Name : Burundi  Flags : https://flagcdn.com/w320/bi.png
+Script.js:12 Name : India  Flags : https://flagcdn.com/w320/in.png
+Script.js:12 Name : Uruguay  Flags : https://flagcdn.com/w320/uy.png
+Script.js:12 Name : Saint Lucia  Flags : https://flagcdn.com/w320/lc.png
+Script.js:12 Name : Barbados  Flags : https://flagcdn.com/w320/bb.png
+Script.js:12 Name : New Caledonia  Flags : https://flagcdn.com/w320/nc.png
+Script.js:12 Name : Latvia  Flags : https://flagcdn.com/w320/lv.png
+Script.js:12 Name : Estonia  Flags : https://flagcdn.com/w320/ee.png
+Script.js:12 Name : Niue  Flags : https://flagcdn.com/w320/nu.png
+Script.js:12 Name : Saint Barthélemy  Flags : https://flagcdn.com/w320/bl.png
+Script.js:12 Name : Puerto Rico  Flags : https://flagcdn.com/w320/pr.png
+Script.js:12 Name : Grenada  Flags : https://flagcdn.com/w320/gd.png
+Script.js:12 Name : Macau  Flags : https://flagcdn.com/w320/mo.png
+Script.js:12 Name : Cyprus  Flags : https://flagcdn.com/w320/cy.png
+Script.js:12 Name : Isle of Man  Flags : https://flagcdn.com/w320/im.png
+Script.js:12 Name : Greece  Flags : https://flagcdn.com/w320/gr.png
+Script.js:12 Name : Syria  Flags : https://flagcdn.com/w320/sy.png
+Script.js:12 Name : Lithuania  Flags : https://flagcdn.com/w320/lt.png
+Script.js:12 Name : Curaçao  Flags : https://flagcdn.com/w320/cw.png
+Script.js:12 Name : Dominica  Flags : https://flagcdn.com/w320/dm.png
+Script.js:12 Name : Niger  Flags : https://flagcdn.com/w320/ne.png
+Script.js:12 Name : Kyrgyzstan  Flags : https://flagcdn.com/w320/kg.png
+Script.js:12 Name : Trinidad and Tobago  Flags : https://flagcdn.com/w320/tt.png
+Script.js:12 Name : Togo  Flags : https://flagcdn.com/w320/tg.png
+Script.js:12 Name : Palestine  Flags : https://flagcdn.com/w320/ps.png
+Script.js:12 Name : Madagascar  Flags : https://flagcdn.com/w320/mg.png
+Script.js:12 Name : Croatia  Flags : https://flagcdn.com/w320/hr.png
+Script.js:12 Name : Faroe Islands  Flags : https://flagcdn.com/w320/fo.png
+Script.js:12 Name : Haiti  Flags : https://flagcdn.com/w320/ht.png
+Script.js:12 Name : Montserrat  Flags : https://flagcdn.com/w320/ms.png
+Script.js:12 Name : Cook Islands  Flags : https://flagcdn.com/w320/ck.png
+Script.js:12 Name : Timor-Leste  Flags : https://flagcdn.com/w320/tl.png
+Script.js:12 Name : Martinique  Flags : https://flagcdn.com/w320/mq.png
+Script.js:12 Name : Cuba  Flags : https://flagcdn.com/w320/cu.png
+Script.js:12 Name : Taiwan  Flags : https://flagcdn.com/w320/tw.png
+Script.js:12 Name : Eswatini  Flags : https://flagcdn.com/w320/sz.png
+Script.js:12 Name : Ukraine  Flags : https://flagcdn.com/w320/ua.png
+Script.js:12 Name : Bermuda  Flags : https://flagcdn.com/w320/bm.png
+Script.js:12 Name : South Korea  Flags : https://flagcdn.com/w320/kr.png
+Script.js:12 Name : Peru  Flags : https://flagcdn.com/w320/pe.png
+Script.js:12 Name : Iraq  Flags : https://flagcdn.com/w320/iq.png
+Script.js:12 Name : Moldova  Flags : https://flagcdn.com/w320/md.png
+Script.js:12 Name : San Marino  Flags : https://flagcdn.com/w320/sm.png
+Script.js:12 Name : Venezuela  Flags : https://flagcdn.com/w320/ve.png
+Script.js:12 Name : Guyana  Flags : https://flagcdn.com/w320/gy.png
+Script.js:12 Name : Cayman Islands  Flags : https://flagcdn.com/w320/ky.png
+Script.js:12 Name : Cambodia  Flags : https://flagcdn.com/w320/kh.png
+Script.js:12 Name : Cocos (Keeling) Islands  Flags : https://flagcdn.com/w320/cc.png
+Script.js:12 Name : Malta  Flags : https://flagcdn.com/w320/mt.png
+Script.js:12 Name : Sri Lanka  Flags : https://flagcdn.com/w320/lk.png
+Script.js:12 Name : Israel  Flags : https://flagcdn.com/w320/il.png
+Script.js:12 Name : Sudan  Flags : https://flagcdn.com/w320/sd.png
+Script.js:12 Name : United States Virgin Islands  Flags : https://flagcdn.com/w320/vi.png
+Script.js:12 Name : Eritrea  Flags : https://flagcdn.com/w320/er.png
+Script.js:12 Name : Mali  Flags : https://flagcdn.com/w320/ml.png
+Script.js:12 Name : Somalia  Flags : https://flagcdn.com/w320/so.png
+Script.js:12 Name : Norfolk Island  Flags : https://flagcdn.com/w320/nf.png
+Script.js:12 Name : Comoros  Flags : https://flagcdn.com/w320/km.png
+Script.js:12 Name : Nicaragua  Flags : https://flagcdn.com/w320/ni.png
+Script.js:12 Name : Russia  Flags : https://flagcdn.com/w320/ru.png
+Script.js:12 Name : Uganda  Flags : https://flagcdn.com/w320/ug.png
+Script.js:12 Name : Nauru  Flags : https://flagcdn.com/w320/nr.png
+Script.js:12 Name : Switzerland  Flags : https://flagcdn.com/w320/ch.png
+Script.js:12 Name : Portugal  Flags : https://flagcdn.com/w320/pt.png
+Script.js:12 Name : Tajikistan  Flags : https://flagcdn.com/w320/tj.png
+Script.js:12 Name : South Sudan  Flags : https://flagcdn.com/w320/ss.png
+Script.js:12 Name : Bouvet Island  Flags : https://flagcdn.com/w320/bv.png
+Script.js:12 Name : Micronesia  Flags : https://flagcdn.com/w320/fm.png
+Script.js:12 Name : American Samoa  Flags : https://flagcdn.com/w320/as.png
+Script.js:12 Name : Czechia  Flags : https://flagcdn.com/w320/cz.png
+Script.js:12 Name : Botswana  Flags : https://flagcdn.com/w320/bw.png
+Script.js:12 Name : Tunisia  Flags : https://flagcdn.com/w320/tn.png
+Script.js:12 Name : Anguilla  Flags : https://flagcdn.com/w320/ai.png
+Script.js:12 Name : Guinea-Bissau  Flags : https://flagcdn.com/w320/gw.png
+Script.js:12 Name : Slovakia  Flags : https://flagcdn.com/w320/sk.png
+Script.js:12 Name : Marshall Islands  Flags : https://flagcdn.com/w320/mh.png
+Script.js:12 Name : Algeria  Flags : https://flagcdn.com/w320/dz.png
+Script.js:12 Name : Jamaica  Flags : https://flagcdn.com/w320/jm.png
+Script.js:12 Name : Mozambique  Flags : https://flagcdn.com/w320/mz.png
+Script.js:12 Name : Spain  Flags : https://flagcdn.com/w320/es.png
+Script.js:12 Name : Honduras  Flags : https://flagcdn.com/w320/hn.png
+Script.js:12 Name : Netherlands  Flags : https://flagcdn.com/w320/nl.png
+Script.js:12 Name : South Africa  Flags : https://flagcdn.com/w320/za.png
+Script.js:12 Name : Azerbaijan  Flags : https://flagcdn.com/w320/az.png
+Script.js:12 Name : North Macedonia  Flags : https://flagcdn.com/w320/mk.png
+Script.js:12 Name : Gambia  Flags : https://flagcdn.com/w320/gm.png
+Script.js:12 Name : Liberia  Flags : https://flagcdn.com/w320/lr.png
+Script.js:12 Name : Luxembourg  Flags : https://flagcdn.com/w320/lu.png
+Script.js:12 Name : Cape Verde  Flags : https://flagcdn.com/w320/cv.png
+Script.js:12 Name : Bahamas  Flags : https://flagcdn.com/w320/bs.png
+Script.js:12 Name : Georgia  Flags : https://flagcdn.com/w320/ge.png
+Script.js:12 Name : Kiribati  Flags : https://flagcdn.com/w320/ki.png
+Script.js:12 Name : Tanzania  Flags : https://flagcdn.com/w320/tz.png
+Script.js:12 Name : China  Flags : https://flagcdn.com/w320/cn.png
+Script.js:12 Name : Guatemala  Flags : https://flagcdn.com/w320/gt.png
+Script.js:12 Name : São Tomé and Príncipe  Flags : https://flagcdn.com/w320/st.png
+Script.js:12 Name : Germany  Flags : https://flagcdn.com/w320/de.png
+Script.js:12 Name : Sierra Leone  Flags : https://flagcdn.com/w320/sl.png
+Script.js:12 Name : Chad  Flags : https://flagcdn.com/w320/td.png
+Script.js:12 Name : United Kingdom  Flags : https://flagcdn.com/w320/gb.png
+Script.js:12 Name : Slovenia  Flags : https://flagcdn.com/w320/si.png
+Script.js:12 Name : Thailand  Flags : https://flagcdn.com/w320/th.png
+Script.js:12 Name : Indonesia  Flags : https://flagcdn.com/w320/id.png
+Script.js:12 Name : Northern Mariana Islands  Flags : https://flagcdn.com/w320/mp.png
+Script.js:12 Name : Guam  Flags : https://flagcdn.com/w320/gu.png
+Script.js:12 Name : Finland  Flags : https://flagcdn.com/w320/fi.png
+Script.js:12 Name : Mayotte  Flags : https://flagcdn.com/w320/yt.png
+Script.js:12 Name : Gibraltar  Flags : https://flagcdn.com/w320/gi.png
+Script.js:12 Name : Turkmenistan  Flags : https://flagcdn.com/w320/tm.png
+Script.js:12 Name : Kosovo  Flags : https://flagcdn.com/w320/xk.png
+Script.js:12 Name : Ivory Coast  Flags : https://flagcdn.com/w320/ci.png
+Script.js:12 Name : Morocco  Flags : https://flagcdn.com/w320/ma.png
+Script.js:12 Name : Dominican Republic  Flags : https://flagcdn.com/w320/do.png
+Script.js:12 Name : Ghana  Flags : https://flagcdn.com/w320/gh.png
+Script.js:12 Name : Vatican City  Flags : https://flagcdn.com/w320/va.png
+Script.js:12 Name : Jersey  Flags : https://flagcdn.com/w320/je.png
+Script.js:12 Name : Turkey  Flags : https://flagcdn.com/w320/tr.png
+Script.js:12 Name : Tuvalu  Flags : https://flagcdn.com/w320/tv.png
+Script.js:12 Name : Iran  Flags : https://flagcdn.com/w320/ir.png
+Script.js:12 Name : Egypt  Flags : https://flagcdn.com/w320/eg.png
+Script.js:12 Name : Denmark  Flags : https://flagcdn.com/w320/dk.png
+Script.js:12 Name : Kenya  Flags : https://flagcdn.com/w320/ke.png
+Script.js:12 Name : Bulgaria  Flags : https://flagcdn.com/w320/bg.png
+Script.js:12 Name : Zimbabwe  Flags : https://flagcdn.com/w320/zw.png
+Script.js:12 Name : Angola  Flags : https://flagcdn.com/w320/ao.png
+Script.js:12 Name : Nigeria  Flags : https://flagcdn.com/w320/ng.png
+Script.js:12 Name : Poland  Flags : https://flagcdn.com/w320/pl.png
+Script.js:12 Name : Senegal  Flags : https://flagcdn.com/w320/sn.png
+Script.js:12 Name : Saint Helena, Ascension and Tristan da Cunha  Flags : https://flagcdn.com/w320/sh.png
+Script.js:12 Name : Lebanon  Flags : https://flagcdn.com/w320/lb.png
+Script.js:12 Name : Samoa  Flags : https://flagcdn.com/w320/ws.png
+Script.js:12 Name : Philippines  Flags : https://flagcdn.com/w320/ph.png
+Script.js:12 Name : Guernsey  Flags : https://flagcdn.com/w320/gg.png
+Script.js:12 Name : El Salvador  Flags : https://flagcdn.com/w320/sv.png
+Script.js:12 Name : Kuwait  Flags : https://flagcdn.com/w320/kw.png
+Script.js:12 Name : Tonga  Flags : https://flagcdn.com/w320/to.png
+Script.js:12 Name : Oman  Flags : https://flagcdn.com/w320/om.png
+Script.js:12 Name : Afghanistan  Flags : https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png
+Script.js:12 Name : Saint Kitts and Nevis  Flags : https://flagcdn.com/w320/kn.png
+Script.js:12 Name : Central African Republic  Flags : https://flagcdn.com/w320/cf.png
+Script.js:12 Name : Serbia  Flags : https://flagcdn.com/w320/rs.png
+Script.js:12 Name : Armenia  Flags : https://flagcdn.com/w320/am.png
+Script.js:12 Name : Bangladesh  Flags : https://flagcdn.com/w320/bd.png
+Script.js:12 Name : Laos  Flags : https://flagcdn.com/w320/la.png
+Script.js:12 Name : Chile  Flags : https://flagcdn.com/w320/cl.png
+Script.js:12 Name : French Polynesia  Flags : https://flagcdn.com/w320/pf.png
+Script.js:12 Name : Panama  Flags : https://flagcdn.com/w320/pa.png
+Script.js:12 Name : United States  Flags : https://flagcdn.com/w320/us.png
+Script.js:12 Name : Nepal  Flags : https://flagcdn.com/w320/np.png
+Script.js:12 Name : Myanmar  Flags : https://flagcdn.com/w320/mm.png
+Script.js:12 Name : Falkland Islands  Flags : https://flagcdn.com/w320/fk.png
+Script.js:12 Name : Hungary  Flags : https://flagcdn.com/w320/hu.png
+Script.js:12 Name : Palau  Flags : https://flagcdn.com/w320/pw.png
+Script.js:12 Name : Equatorial Guinea  Flags : https://flagcdn.com/w320/gq.png
+Script.js:12 Name : Guinea  Flags : https://flagcdn.com/w320/gn.png
+Script.js:12 Name : United Arab Emirates  Flags : https://flagcdn.com/w320/ae.png
+Script.js:12 Name : Turks and Caicos Islands  Flags : https://flagcdn.com/w320/tc.png
+Script.js:12 Name : British Virgin Islands  Flags : https://flagcdn.com/w320/vg.png
+Script.js:12 Name : Liechtenstein  Flags : https://flagcdn.com/w320/li.png
+Script.js:12 Name : Bosnia and Herzegovina  Flags : https://flagcdn.com/w320/ba.png
+Script.js:12 Name : Malawi  Flags : https://flagcdn.com/w320/mw.png
+Script.js:12 Name : Bhutan  Flags : https://flagcdn.com/w320/bt.png
+Script.js:12 Name : Cameroon  Flags : https://flagcdn.com/w320/cm.png
+Script.js:12 Name : Andorra  Flags : https://flagcdn.com/w320/ad.png
+Script.js:12 Name : Guadeloupe  Flags : https://flagcdn.com/w320/gp.png
+Script.js:12 Name : Republic of the Congo  Flags : https://flagcdn.com/w320/cg.png
+Script.js:12 Name : Réunion  Flags : https://flagcdn.com/w320/re.png
+Script.js:12 Name : Burkina Faso  Flags : https://flagcdn.com/w320/bf.png
+Script.js:12 Name : Jordan  Flags : https://flagcdn.com/w320/jo.png
+Script.js:12 Name : DR Congo  Flags : https://flagcdn.com/w320/cd.png
+Script.js:12 Name : Tokelau  Flags : https://flagcdn.com/w320/tk.png
+Script.js:12 Name : Vietnam  Flags : https://flagcdn.com/w320/vn.png
+Script.js:12 Name : Sint Maarten  Flags : https://flagcdn.com/w320/sx.png
+Script.js:12 Name : Belgium  Flags : https://flagcdn.com/w320/be.png
+Script.js:12 Name : United States Minor Outlying Islands  Flags : https://flagcdn.com/w320/um.png
+Script.js:12 Name : Brazil  Flags : https://flagcdn.com/w320/br.png
+Script.js:12 Name : Belize  Flags : https://flagcdn.com/w320/bz.png
+Script.js:12 Name : Antigua and Barbuda  Flags : https://flagcdn.com/w320/ag.png
+Script.js:12 Name : Paraguay  Flags : https://flagcdn.com/w320/py.png
+Script.js:12 Name : Benin  Flags : https://flagcdn.com/w320/bj.png
+Script.js:12 Name : Brunei  Flags : https://flagcdn.com/w320/bn.png
+Script.js:12 Name : Bolivia  Flags : https://flagcdn.com/w320/bo.png
+Script.js:12 Name : Djibouti  Flags : https://flagcdn.com/w320/dj.png
+Script.js:12 Name : French Guiana  Flags : https://flagcdn.com/w320/gf.png
+Script.js:12 Name : Canada  Flags : https://flagcdn.com/w320/ca.png
+Script.js:12 Name : Saint Pierre and Miquelon  Flags : https://flagcdn.com/w320/pm.png
+Script.js:12 Name : Japan  Flags : https://flagcdn.com/w320/jp.png
+Script.js:12 Name : Rwanda  Flags : https://flagcdn.com/w320/rw.png
+Script.js:12 Name : Saint Vincent and the Grenadines  Flags : https://flagcdn.com/w320/vc.png
+Script.js:12 Name : Iceland  Flags : https://flagcdn.com/w320/is.png
+Script.js:12 Name : Belarus  Flags : https://flagcdn.com/w320/by.png
+Script.js:12 Name : Hong Kong  Flags : https://flagcdn.com/w320/hk.png
+Script.js:12 Name : Lesotho  Flags : https://flagcdn.com/w320/ls.png
+Script.js:12 Name : Fiji  Flags : https://flagcdn.com/w320/fj.png
+Script.js:12 Name : Austria  Flags : https://flagcdn.com/w320/at.png
+Script.js:12 Name : Colombia  Flags : https://flagcdn.com/w320/co.png
+Script.js:12 Name : Gabon  Flags : https://flagcdn.com/w320/ga.png
+Script.js:12 Name : Saudi Arabia  Flags : https://flagcdn.com/w320/sa.png
+Script.js:12 Name : South Georgia  Flags : https://flagcdn.com/w320/gs.png
+Script.js:12 Name : Ethiopia  Flags : https://flagcdn.com/w320/et.png
+Script.js:12 Name : Caribbean Netherlands  Flags : https://flagcdn.com/w320/bq.png
+Script.js:12 Name : Monaco  Flags : https://flagcdn.com/w320/mc.png
+Script.js:12 Name : North Korea  Flags : https://flagcdn.com/w320/kp.png
+Script.js:12 Name : Italy  Flags : https://flagcdn.com/w320/it.png
+Script.js:12 Name : Namibia  Flags : https://flagcdn.com/w320/na.png
+Script.js:12 Name : Mongolia  Flags : https://flagcdn.com/w320/mn.png
+Script.js:12 Name : Solomon Islands  Flags : https://flagcdn.com/w320/sb.png
+Script.js:12 Name : Yemen  Flags : https://flagcdn.com/w320/ye.png
+Script.js:12 Name : Romania  Flags : https://flagcdn.com/w320/ro.png
+Script.js:12 Name : Svalbard and Jan Mayen  Flags : https://flagcdn.com/w320/sj.png
+Script.js:12 Name : France  Flags : https://flagcdn.com/w320/fr.png
